@@ -1,1 +1,1 @@
-# Convolutional-Neural-Network-CNN-to-identify-handwritten-digits
+## This project aims to design, train, and evaluate a Convolutional Neural Network (CNN) to identify handwritten digits from the n-MNIST dataset. This dataset is a tougher version of the usual MNIST, as the digits are blurred to mimic camera shake, making them harder to classify
